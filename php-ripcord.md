@@ -47,7 +47,7 @@ $models					// The (Ripcord) client
 All "partners" in Odoo are located in the table **res_partner**.
 
 This includes **customers**, **contacts** and **suppliers**.  
-Partner typesare differentiated with boolean fields:
+Partner types are differentiated with boolean fields:
 
 * **is_company** - True = is a company, False = is a **contact** or an **employee**
 * **customer** - True = is a customer, will be shown in "**customers**"
