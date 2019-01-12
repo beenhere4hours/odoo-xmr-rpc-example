@@ -97,7 +97,7 @@ print("</p>");
 
 
 
-## Searching a spesific customer with business id
+## Searching a specific customer with business id
 
 Because read() always needs to know datatabase ids,
 there is a combined function for search and read, which
